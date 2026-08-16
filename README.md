@@ -1,1 +1,1 @@
-# Online Retail Cohort Retetention Analysis
+# Customer Retention & Segmentation Analysis: Online Retail Dataset
