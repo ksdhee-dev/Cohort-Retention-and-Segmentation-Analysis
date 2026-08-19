@@ -1,0 +1,22 @@
+Cohort-Retention-and-Segmentation-Analysis/
+│
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   └── README.md
+│
+├── notebooks/
+│   └── 01_cohort_retention_analysis.ipynb
+│
+├── src/
+│   ├── data_cleaning.py
+│   ├── cohort_analysis.py
+│   ├── segmentation.py
+│   └── visualization.py
+│
+├── outputs/
+│   ├── figures/
+│   └── tables/
+│
+└── .gitignore
